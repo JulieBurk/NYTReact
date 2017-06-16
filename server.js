@@ -22,9 +22,9 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 app.use(express.static("./public"));
 
 // -------------------------------------------------
-
+// mongodb://heroku_sd8x9fwj:h64aoisulb9351p9epa0dan28k@ds129442.mlab.com:29442/heroku_sd8x9fwj
 // MongoDB Configuration configuration
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/react_nyt");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://heroku_sd8x9fwj:h64aoisulb9351p9epa0dan28k@ds129442.mlab.com:29442/heroku_sd8x9fwj");
 var db = mongoose.connection;
 
 db.on("error", function(err) {

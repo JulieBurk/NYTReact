@@ -1,13 +1,14 @@
 <html>
 <head>
 </head>
-<title></title>
+<title> #NYTReact</title>
 <body>
-# NYTReact
-React-based New York Times Article Searching application.  A single page app.
+
+<h3>a singl page app using react to search for New York Times articles.</h3>
 
 <hl>
-Technologies Used
+
+<h3>Technologies Used</h3>
     Nodejs
    	MongoDB
     React
@@ -16,12 +17,11 @@ Technologies Used
     	Express
     	Axios
     	Body-parser
-  
     	Mongoose
-    "morgan": "^1.7.0",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "react-router": "^3.0.1"
+	    Morgan
+	    React
+	    React-dom
+	    React-router
 
 Screenshot
 <img = assets/public/images/readmefile-view.png>
