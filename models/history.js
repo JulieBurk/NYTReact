@@ -1,3 +1,5 @@
+// the model for mongodb utilizes mongoose orm
+// the model file is named "history"
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
