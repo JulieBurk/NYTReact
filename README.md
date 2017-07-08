@@ -22,7 +22,7 @@
 
 ====================
 
-![Screenshot](assets/public/images/readmefile-view.png)
+![Screenshot](assets/images/readmefile-view.png)
 
       
 
