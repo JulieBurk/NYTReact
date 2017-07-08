@@ -1,8 +1,9 @@
-#NYTReact#
+# NYTReact
 
 
-###A single page app using react to search for New York Times articles.###
+### A single page app using react to search for New York Times articles.
 
+====================
 ##Technologies Used##
     *Nodejs
     *MongoDB
@@ -19,11 +20,10 @@
         *React-dom
         *React-router
 
-##Screenshot##
+====================
 
-[GitHub](assets/public/images/readmefile-view.png)
-=======
-    
+[Screenshot](assets/public/images/readmefile-view.png)
+
       
 
 
