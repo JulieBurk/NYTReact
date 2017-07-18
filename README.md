@@ -8,7 +8,6 @@
     * Nodejs
     * MongoDB
     * React
-    * Babel
     * Javascript
     * HTML
     * NPM Packages
@@ -17,8 +16,9 @@
         * Body-parser
         * Mongoose
         * Morgan
-        * React-dom
-        * React-router
+
+
+
 
 ====================
 
